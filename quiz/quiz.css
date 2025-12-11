@@ -1,6 +1,0 @@
-.option-btn:hover:not(:disabled) {
-    border-color: #a5b4fc;
-    background-color: #f8fafc;
-}
-.correct { background-color: #f0fdf4 !important; border-color: #22c55e !important; color: #15803d !important; }
-.incorrect { background-color: #fef2f2 !important; border-color: #ef4444 !important; color: #b91c1c !important; }
